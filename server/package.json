@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {
-    "nodemon": "^2.0.22"
+    "nodemon": "^3.0.1"
   },
   "scripts": {
     "start": "node index.js",
@@ -22,7 +22,7 @@
     "helmet": "^7.0.0",
     "morgan": "^1.10.0",
     "nanoid": "^4.0.2",
-    "vercel": "^30.2.3",
+    "vercel": "^32.3.0",
     "zod": "^3.21.4"
   }
 }
